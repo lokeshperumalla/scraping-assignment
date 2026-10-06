@@ -1,0 +1,38 @@
+{
+  "per_source": {
+    "Books to Scrape": {
+      "collected": 1000,
+      "after_cleaning": 1000,
+      "rejected_validation": 0,
+      "duplicates_removed": 0,
+      "final": 1000,
+      "scrape": {
+        "pages_fetched": 80,
+        "pages_failed": 0,
+        "categories": 50
+      }
+    },
+    "Quotes to Scrape": {
+      "collected": 100,
+      "after_cleaning": 100,
+      "rejected_validation": 0,
+      "duplicates_removed": 0,
+      "final": 100,
+      "scrape": {
+        "pages_fetched": 10,
+        "pages_failed": 0,
+        "author_pages_failed": 0
+      }
+    }
+  },
+  "totals": {
+    "collected": 1100,
+    "after_cleaning": 1100,
+    "rejected_validation": 0,
+    "duplicates_removed": 0,
+    "final": 1100
+  },
+  "rejection_reasons": {},
+  "failed_urls": [],
+  "execution_time_seconds": 68.97
+}
